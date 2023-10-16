@@ -1,0 +1,9 @@
+body {
+    display: grid;
+    border: 3;
+}
+header{background-color: lightpink;}
+main{background-color: lightseagreen;}
+aside{background-color: orange;}
+footer{background-color: royalblue;
+color: aqua;}
